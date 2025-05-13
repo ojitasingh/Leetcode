@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ojitasingh/Leetcode/tree/master/0066-plus-one) |
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/ojitasingh/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ojitasingh/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/ojitasingh/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
