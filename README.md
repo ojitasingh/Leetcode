@@ -75,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
