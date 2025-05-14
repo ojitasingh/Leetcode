@@ -78,17 +78,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
