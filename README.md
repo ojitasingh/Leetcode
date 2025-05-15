@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ojitasingh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ojitasingh/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ojitasingh/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String Matching
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/ojitasingh/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ojitasingh/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/ojitasingh/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Math
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ojitasingh/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ojitasingh/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ojitasingh/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ojitasingh/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Greedy
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ojitasingh/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
