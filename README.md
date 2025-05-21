@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ojitasingh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ojitasingh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ojitasingh/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ojitasingh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
