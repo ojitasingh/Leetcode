@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ojitasingh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ojitasingh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/ojitasingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ojitasingh/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ojitasingh/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ojitasingh/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ojitasingh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ojitasingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ojitasingh/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ojitasingh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ojitasingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ojitasingh/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ojitasingh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ojitasingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/ojitasingh/Leetcode/tree/master/0816-design-hashset) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ojitasingh/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
