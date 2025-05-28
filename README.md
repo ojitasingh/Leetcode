@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ojitasingh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/ojitasingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ojitasingh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ojitasingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ojitasingh/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ojitasingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0456-132-pattern](https://github.com/ojitasingh/Leetcode/tree/master/0456-132-pattern) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ojitasingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ojitasingh/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
