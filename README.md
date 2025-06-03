@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ojitasingh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ojitasingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/ojitasingh/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ojitasingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/ojitasingh/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ojitasingh/Leetcode/tree/master/0817-design-hashmap) |
+| [0908-middle-of-the-linked-list](https://github.com/ojitasingh/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ojitasingh/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
