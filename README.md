@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ojitasingh/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ojitasingh/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ojitasingh/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ojitasingh/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ojitasingh/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ojitasingh/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ojitasingh/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ojitasingh/Leetcode/tree/master/0169-majority-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ojitasingh/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ojitasingh/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
