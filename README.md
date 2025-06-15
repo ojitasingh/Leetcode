@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ojitasingh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ojitasingh/Leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/ojitasingh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/ojitasingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ojitasingh/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ojitasingh/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/ojitasingh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ojitasingh/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ojitasingh/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3321-type-of-triangle](https://github.com/ojitasingh/Leetcode/tree/master/3321-type-of-triangle) |
