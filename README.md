@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ojitasingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ojitasingh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ojitasingh/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ojitasingh/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ojitasingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0392-is-subsequence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ojitasingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ojitasingh/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ojitasingh/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ojitasingh/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ojitasingh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ojitasingh/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ojitasingh/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ojitasingh/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ojitasingh/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ojitasingh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ojitasingh/Leetcode/tree/master/0496-next-greater-element-i) |
