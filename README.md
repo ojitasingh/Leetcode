@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ojitasingh/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ojitasingh/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ojitasingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0392-is-subsequence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ojitasingh/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ojitasingh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ojitasingh/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/ojitasingh/Leetcode/tree/master/3321-type-of-triangle) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ojitasingh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ojitasingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/ojitasingh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/ojitasingh/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ojitasingh/Leetcode/tree/master/0817-design-hashmap) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [1054-complement-of-base-10-integer](https://github.com/ojitasingh/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ojitasingh/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
