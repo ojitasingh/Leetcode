@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ojitasingh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/ojitasingh/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ojitasingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/ojitasingh/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ojitasingh/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/ojitasingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ojitasingh/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ojitasingh/Leetcode/tree/master/3194-find-words-containing-character) |
