@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ojitasingh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/ojitasingh/Leetcode/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/ojitasingh/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ojitasingh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/ojitasingh/Leetcode/tree/master/0575-distribute-candies) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ojitasingh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/ojitasingh/Leetcode/tree/master/0414-third-maximum-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ojitasingh/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/ojitasingh/Leetcode/tree/master/3321-type-of-triangle) |
