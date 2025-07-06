@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/ojitasingh/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [1054-complement-of-base-10-integer](https://github.com/ojitasingh/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ojitasingh/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ojitasingh/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ojitasingh/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Database
 |  |
 | ------- |
