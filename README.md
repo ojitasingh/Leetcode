@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ojitasingh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ojitasingh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojitasingh/Leetcode/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/ojitasingh/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ojitasingh/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ojitasingh/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ojitasingh/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ojitasingh/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ojitasingh/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ojitasingh/Leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ojitasingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
