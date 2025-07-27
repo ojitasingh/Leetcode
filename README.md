@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ojitasingh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojitasingh/Leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/ojitasingh/Leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/ojitasingh/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/ojitasingh/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ojitasingh/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ojitasingh/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ojitasingh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/ojitasingh/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ojitasingh/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/ojitasingh/Leetcode/tree/master/0456-132-pattern) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ojitasingh/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
