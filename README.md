@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ojitasingh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojitasingh/Leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/ojitasingh/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ojitasingh/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ojitasingh/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/ojitasingh/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ojitasingh/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/ojitasingh/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ojitasingh/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/ojitasingh/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [1054-complement-of-base-10-integer](https://github.com/ojitasingh/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ojitasingh/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ojitasingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ojitasingh/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ojitasingh/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ojitasingh/Leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ojitasingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
