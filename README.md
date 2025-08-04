@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ojitasingh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ojitasingh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ojitasingh/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ojitasingh/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ojitasingh/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ojitasingh/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ojitasingh/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ojitasingh/Leetcode/tree/master/0258-add-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ojitasingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ojitasingh/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
@@ -386,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ojitasingh/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ojitasingh/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
