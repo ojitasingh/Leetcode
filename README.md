@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ojitasingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/ojitasingh/Leetcode/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/ojitasingh/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ojitasingh/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/ojitasingh/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ojitasingh/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/ojitasingh/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ojitasingh/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/ojitasingh/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/ojitasingh/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/ojitasingh/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ojitasingh/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ojitasingh/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/ojitasingh/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/ojitasingh/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/ojitasingh/Leetcode/tree/master/0697-degree-of-an-array) |
