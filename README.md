@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ojitasingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ojitasingh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0392-is-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ojitasingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ojitasingh/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ojitasingh/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ojitasingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ojitasingh/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/ojitasingh/Leetcode/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ojitasingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/ojitasingh/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/ojitasingh/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/ojitasingh/Leetcode/tree/master/0816-design-hashset) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ojitasingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ojitasingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ojitasingh/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ojitasingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ojitasingh/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ojitasingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/ojitasingh/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -305,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/ojitasingh/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ojitasingh/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ojitasingh/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ojitasingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
 |  |
 | ------- |
