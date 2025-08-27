@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ojitasingh/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ojitasingh/Leetcode/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/ojitasingh/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/ojitasingh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ojitasingh/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ojitasingh/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ojitasingh/Leetcode/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ojitasingh/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/ojitasingh/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/ojitasingh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ojitasingh/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
