@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/ojitasingh/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ojitasingh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ojitasingh/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/ojitasingh/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ojitasingh/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ojitasingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ojitasingh/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/ojitasingh/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ojitasingh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/ojitasingh/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ojitasingh/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ojitasingh/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ojitasingh/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ojitasingh/Leetcode/tree/master/0258-add-digits) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/ojitasingh/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ojitasingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ojitasingh/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
@@ -421,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ojitasingh/Leetcode/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/ojitasingh/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
