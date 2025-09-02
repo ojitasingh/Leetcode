@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ojitasingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/ojitasingh/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/ojitasingh/Leetcode/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/ojitasingh/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0749-shortest-completing-word](https://github.com/ojitasingh/Leetcode/tree/master/0749-shortest-completing-word) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ojitasingh/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ojitasingh/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ojitasingh/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/ojitasingh/Leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ojitasingh/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/ojitasingh/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ojitasingh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ojitasingh/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ojitasingh/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/ojitasingh/Leetcode/tree/master/0415-add-strings) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/ojitasingh/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ojitasingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ojitasingh/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
