@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ojitasingh/Leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/ojitasingh/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0749-shortest-completing-word](https://github.com/ojitasingh/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0889-buddy-strings](https://github.com/ojitasingh/Leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ojitasingh/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/ojitasingh/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1619-path-crossing](https://github.com/ojitasingh/Leetcode/tree/master/1619-path-crossing) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/ojitasingh/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/ojitasingh/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ojitasingh/Leetcode/tree/master/0817-design-hashmap) |
+| [0889-buddy-strings](https://github.com/ojitasingh/Leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ojitasingh/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/ojitasingh/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ojitasingh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
