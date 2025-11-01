@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/ojitasingh/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ojitasingh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ojitasingh/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/ojitasingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ojitasingh/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/ojitasingh/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/ojitasingh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/ojitasingh/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ojitasingh/Leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/ojitasingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ojitasingh/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ojitasingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ojitasingh/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ojitasingh/Leetcode/tree/master/0506-relative-ranks) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ojitasingh/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
